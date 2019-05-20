@@ -1,5 +1,6 @@
 # Zika paper Repository
 #### Figure 1 Markdown code
+[Zika Paper Figure 1 SVG](http://prfw.github.io/Zika/test.svg)
 [Zika_Paper_plot_May_15_2019](http://prfw.github.io/Zika/Zika_Paper_plot_May_15_2019.html)
 
 
@@ -7,7 +8,6 @@
 
 #### Markdown Syntax
 [Markdown Syntax](https://guides.github.com/features/mastering-markdown/)
-
 
 
 ##### Testing
